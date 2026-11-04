@@ -9,12 +9,12 @@
       "sessionKey": "kY+icgTqUbqjHkvVDm92Ug==:mZzzwLG5pW1CnRYrMTLYpc7gQwhnll8LfLF2mXvZXK6qkNJrhKZUHoGHPipHYpg/ooaZE3qnZBvs6hSDmfwpaNM0CFPC4R53dlf+QHKiN7I1mmhJlGJ9j91aO/hpUqGR0GU5FFm6HTGDgPeHIbuvdPtWZSEBDrkho6prOJkJI7d4hO3z0RBdjGIkcMr412YPXg4PRketi7mpfZGRyLqDjL6PIOW8bmLexgsF3HGTb3d/BEkC0lAe+wpcFcNXjExaoeKdEZhptjMEqBFRp3MjfBK4w7+hi26/R33l/YpcrWkdj2ZNmrNcCNA/x8nVco+ZVPtZAc7Yw7iBbFDXxzFFaQ=="
     },
     "b274e9a77217": {
-      "rev": 369,
-      "version": "0.78.95-r369",
-      "commit": "9f069a55dbab72c46d30bcd06df7b9352e084183",
-      "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r369/rxledger-r369.zip",
-      "checksum": "b0c3033afe9c9d80abb2c3a34c5913275bfd838377e7683a6eeb4a4268c06d8a5ebb7261f34b2d5075330fff8455e191b0ac1f6e28c307228083d3d317612edb5529737552b27fd0a975591c3090619389c030ddb76fc196d2d72ebebefb6f2c3f2d9d08b956d26107c36aaa0f30ec863190dce224c5f7418cf2ae94e5865c8805f62d58599e741cf23c64a242c39ca8aa9cc6e4e9a6ab620433b9fdb17d530efe715978e70b0112f8839b223e3ca901ceea6688710215556e549a028309fe3bdf282a953c9fcfa34a585bdae40959d6e078c3f6076d302b755155444b249338f986825f6ccbc5dfea1f065b5ac0c3297089ae797b0e7d138d9b33a5f7304935",
-      "sessionKey": "166zf5vgjMPDPwsZ0x7E8A==:OZOQegjBcQJ8Ki/VSVwmpiQSRruDXnwRyXw+ulty1rLEigy3NGYiQPjKKZgfskkjI9rJnZm24UykieTHKSZUcCnyEWiqFOChUyr4PDgtmDlMrg2QPVxzw05RLKIlubQDkDWVEAtgsbzEBRzgjpIYSEJ+BNtss1Ug0/bXza6t72yUGdQFUjlLScsENLyGWuMODRMiORmgtG4qA7Iskb7U2EqoOJja/VDq504+v/vVaVA9okogqZ2yd7P9oRu6GoWKpm8lzcAzZxpAfOerwHzzq31eWVaX3AIZGgu4gd3T8huKnav8wdI01OtflOatazpRpzqZ6YczsmJj4G7LYqkAPQ=="
+      "rev": 383,
+      "version": "0.78.109-r383",
+      "commit": "054a772e6737f7054130e900a443eba62b1a46b0",
+      "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r383/rxledger-r383.zip",
+      "checksum": "3b348e647363df1c8a5fc0a630ecbd79ab44132f17f6d69d1a91a9f5cf6b1d1672c2c32e94c71c5bd65febe76d07193d2403b7a00f11495560b6b7ebddbe22e2b5b4806875da35a78bddeedb053ac7fbe731cf35936729c7d1fc2d21d5a6774502b67227ff3803d0b434b2e8f23e1f72d830d16745c905da6d4e3e3a1c67cca44bc93e1ef8c230ebe83180c2ec7e0962969297f0096641954e5c19502d386c02dee9a5454da60cbaee946ac851037c663cd12f7e0973bb33f6e9c0119f6da17e32873ed68c486f45102b3b6746746ad49ecc83429dc451599926707612b6528ba6d431652912fa9bcdd9fb86ad8f413f0151937129158f45ee9121e5b9fc89c6",
+      "sessionKey": "AbyhsUcwAqXVUgZzv1/Pdw==:jncxnCXNcJ0CW3Dr4S5rIOin7zn1o+xwtdPTLKggLLnb18KqQmc3syxmZxG+G+c4yjxEMlUKlNuxCPN4Qf3mmoYClVKNN21QCMJwW2K8gCJM0wcfjzvVD0LRvlZoqh67vxL3qPu3UabYjKW67hbz0fF6Le0hYjwG6sR5j+vBZRL5/Wqac4LAJuq2okGiTE6RrvB6b5tCCsYT4VOiq0D/CErZSv4vHjYoqbyRmvA9GfAoj+5Duor1VCVOsf5babWRcJECR8yFRpqEAwL59PnB0lzLm4PuJVq8Yd2dwIhmuhMAczvveikOfL9U3HhN8chPqiSJFCMYl3OFxJHrteiDaA=="
     }
   }
 }
