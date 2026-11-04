@@ -15,6 +15,14 @@
       "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r392/rxledger-r392.zip",
       "checksum": "175fc1c27a19c246af702beeae84ebccd104b51acca0ae4ca02cba47d21024198d75805c4e1e7068b155acbf653796b28bb37fbcae8f4060a4c27ba6ae163c5f4b235f560ad19f7e3483308c349052bea51a13aad3ba08392774bdd67df6ca19dbfd1b53a1a3d166bfae449a0470a8406de1641401cfb803f0b19515198af715255d128a6afe7b9895da2cecf1a279b357e4dcfd674e33c7d720262c288238f9cc35a285ea9edb10d1186a12c0ed00687be1280470526769b8a3b3be6faba347a826a177f8a79b5254111501e007ed69c755725cd4001d680607eaeb28315b29cc915cb90e154ba8e1e2b3075fca5ea8788ded7feca9d7bd22a5cad2d2fb7979",
       "sessionKey": "rw1D9NkqeA6U2ejCcmDWFg==:BJFT2zw/WJu0hasQ2AkVKAfGvI6fiClQbhpK0YhzkA0ch4GVqljwuOJNM25fz5heSai1FnWIN0McQnEy+J25FQeBQ4czxJ8C0WjUsnvdkJRYxWciAs4cielSom3zzmdO7uk1JY/0nuA3BplCtX+7Unnq6FeespwrRP4nCjaeNP+XPSHaNRxguDnDVUC7AyxebdvgNR/qjc6R8zShSxCuv9/Wx38QiPlTyQqcnj2JYQMpJKTSDdxUTMX2vWZuWSFovKLaX6Q1zKgWGLIG/XFiA+gf3kHpOhWoHOqUmVgtDg4LJGfXfcOWwBStjl2lJgPOTVZW/qzWXTbX34Oq56pnpw=="
+    },
+    "aa9ddcb3154b": {
+      "rev": 442,
+      "version": "0.80.43-r442",
+      "commit": "6b0809069ee2a8e30d5ac3d8d25074a1158d16a8",
+      "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r442/rxledger-r442.zip",
+      "checksum": "2b1874c10dcaa6faea7c2d4b6e2d9b6b7665f5f5fd74eacd9dd06ec412fbaf12bf5ca82cf11d6d24c8ef8489c000c03aa591e263c5ab23b60888be03cc17d1b399b48c472beb62fac314bfea0443a535b10ccee19b5c3f1838fd51713d8068d450847dc8211d7f6d2ad3efd5ea32c97f3fe29a76d84cf93f42c74f49dc47fc6b68be201634e64834046993239c061c75ccb41452975b9486af8173f26ceb759882319f63d4c7d8bcb0ec4273e1bb4b291f48769af84445bc41fb82d597246c7d223085005d7661be792ee8605eff3a3fcd35d17cb6ff20bcf6bf1c4f838a292afb57e76bf00c5a81878f18dd9d6512f609e9011fa959fc467b679af6af8fd6ca",
+      "sessionKey": "sCrP/2SQI59pnbDXrDJf1w==:amgYyBRSnwHmmJT+HEBfa3I2ZDvVe0RW+LkRh7bIc7v1h0BqdB+7f63rDzM/5+NBB8eGtOdOABE4lSOaJP0oj74WubXXeChpN6Y4SwAfNmfDGq4A8xPJffeLEvnZG37m/f5q2cDBaf/stWIQ4nVQAYTRjjp1WJ9C6l7+NqUdErNji4+QCz2nJKC2SN2eeLU65kLEA5yHMB3Fry1XZc3M3pbJBhl3W5I34i+/yDutRRxg9c6yVlxHFNq8FowAsLlXu4knPyxUhqXmDMuSEGGdp8xTdYscSqXiz1pETU5v3tWU9HpZ8A50k8M+4tGt1EGmeumSXTAW2vr8yUB0Z3FyTg=="
     }
   }
 }
