@@ -7,6 +7,14 @@
       "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r53/rxledger-r53.zip",
       "checksum": "bb7915da48b839ac13a18e912bcb22388ab981fd97550af4c28ff51ca927910f17724ce222ba5946ec1f150f7d0ca69cb98979a163cfc08a1079c280a84ba8b40a1c80f0d2a98b08160e14fd88c43eb9deb7af3ac704962d9e807b00f64ae89f8394e8d96e23ecc22832ee3ca9bb1143e46f04902ed710c77360d04aec867c57adcc1516d10ea151949f023a27e97a7866b2c842454a50aa5fcebc382320061bed828882018af774701124aefcfdaba72d739f22afbc0ef0c2a9e3f6111510ad25f4eeb1a7c721a44518d9a0f04e45099a1562c955de6bf725bb0a2e9fdeb18f8823f66a11fb00429f2e7d537ea87316cbfc97bea29a70ecd9606f84a6aac302",
       "sessionKey": "kY+icgTqUbqjHkvVDm92Ug==:mZzzwLG5pW1CnRYrMTLYpc7gQwhnll8LfLF2mXvZXK6qkNJrhKZUHoGHPipHYpg/ooaZE3qnZBvs6hSDmfwpaNM0CFPC4R53dlf+QHKiN7I1mmhJlGJ9j91aO/hpUqGR0GU5FFm6HTGDgPeHIbuvdPtWZSEBDrkho6prOJkJI7d4hO3z0RBdjGIkcMr412YPXg4PRketi7mpfZGRyLqDjL6PIOW8bmLexgsF3HGTb3d/BEkC0lAe+wpcFcNXjExaoeKdEZhptjMEqBFRp3MjfBK4w7+hi26/R33l/YpcrWkdj2ZNmrNcCNA/x8nVco+ZVPtZAc7Yw7iBbFDXxzFFaQ=="
+    },
+    "b274e9a77217": {
+      "rev": 310,
+      "version": "0.78.43-r310",
+      "commit": "d2734daed9b36c8d4c095b41e893fbeb13d16774",
+      "url": "https://github.com/Cujuju/rxledger-updates/releases/download/r310/rxledger-r310.zip",
+      "checksum": "824ab2feb26c684177aa0b99a9246b45f5d05264d55856405e2292149de916de94356f3cef34f451e1ac49d76687173895e0ceaf6ba5ae16b2cdea295808e562eed9f069acf1909b4c23c91840576e0fc4f5d419ad4ad451d3ea7bb512e169786dfc087dfdfc3c37bd47218aee3499d60f9c1e5e91de278d9022f5a7ce5d618be71d12fdbd62aae8d8e5d8b1367a97102eb99f328d98b69f4882be9d5cc8b2e6376f4d50fb1d455c1b4fdb2a212d49bd17d1f7a2f904bd93b839bc548cd3b183f4d02c6af2c37fc71019f89a03e46e6a924f0bfed17064160b2577e37f4887f8ef19bc3b120cd4afafe1d98169d268b624bb9adea9821d10353d6d204cae81eb",
+      "sessionKey": "ELCKMe6hb/IaVLMB2KOoQg==:Z4JsqSaB3AmTH3Pyv1lqM1OXOJ2QHayUArvxczzTyvNqsN9yC3qQxkS5G3X67VOvPQikKMyYU7/X9Cq8n1kU2GOZ7g4hplAwe+I2hcGT+2VHZ3/5vL3GGXwSC0BJ5F/1qDuCvNK+Cp5HzdkrZLNpDKqNOAaKH05UwWHNW8MK7cWNY3TZyXaq+6L/NRVx76nJAlhHPzhDfrA+vaYy4Ck7qZ+cZAy/KbaZHloRIeSNW80RZWPL3hMF8LcEVFz8l8f5WYjr2GnMORpuo7gyQ4zr+WyyrdARdvYkkjV9rCSajrGykDpnKa/crCZINxLM4FG61rApBk3qsJBtNon2gLki7Q=="
     }
   }
 }
